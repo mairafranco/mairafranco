@@ -23,14 +23,14 @@ Essas são algumas das linguagens que tenho conhecimento : <br /> <br />
 ##
 
 <div> 
-  <a href = "mailto:mairafranco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mairafrancoo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/maírafranco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
 
 ##
 
 <a href="https://github.com/mairafranco/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mairafranco&count_private=true&show_icons=true&theme=radical" alt="Flávia-Almeida" width="400" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mairafranco&count_private=true&show_icons=true&theme=radical" alt="Maíra-Franco" width="400" />
 </a>
 
 <a href="https://github.com/mairafranco/github-readme-stats">
