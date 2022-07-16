@@ -11,7 +11,7 @@
 > 
 <hr />
 
-Essas são algumas das linguagens que tenho conhecimento : <br /> <br />
+As linguagens que estou aprendendo atualmente: <br /> <br />
 
 
 <p align="left">
